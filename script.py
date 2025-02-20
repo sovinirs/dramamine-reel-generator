@@ -370,7 +370,7 @@ def process_and_stitch_videos_with_segments(
             test_clip = TextClip(
                 text=word,
                 font_size=font_size,
-                font="Arial.ttf",
+                font="./fonts/Arial.ttf",
                 color=color,
                 margin=(0, 20),
             )
