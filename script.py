@@ -1,7 +1,5 @@
 import os
 import random
-import time
-import numpy as np
 
 from openai import OpenAI
 from dotenv import load_dotenv

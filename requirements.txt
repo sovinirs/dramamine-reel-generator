@@ -1,2 +1,6 @@
 flask
 gunicorn
+werkzeug
+moviepy
+openai
+dotenv
